@@ -42,7 +42,7 @@
   </script>
 
 </head>
-<body>
+<body data-spy="scroll" data-target="#sidebar">
   <!-- NAVIGATION -->
   <div class="navbar navbar-inverse navbar-fixed-top" id="main-menu" role="navigation">
     <div class="container">
@@ -55,10 +55,10 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav nav-justified">
-          <li><a href="index.php">Hjem</a></li>
-          <li><a href="tegnestuen.php">Tegnestuen</a></li>
-          <li><a href="byggerier.php">Byggerier</a></li>
-          <li><a href="kontakt.php">Kontakt</a></li>
+          <li><a href="index.php">HJEM</a></li>
+          <li><a href="tegnestuen.php">TEGNESTUEN</a></li>
+          <li><a href="byggerier.php">BYGGERIER</a></li>
+          <li><a href="kontakt.php">KONTAKT</a></li>
         </ul>
       </div>
     </div> <!-- CONTAINER END -->

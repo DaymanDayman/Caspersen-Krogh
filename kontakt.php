@@ -4,6 +4,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
+				<br>
 				<h2>Caspersen &amp; Krogh Arkitekter A/S</h2>
 				<p>
 					Tøjhushavevej 14
@@ -30,6 +31,8 @@
 				<div id="map-canvas"></div>
 			</div>
 		</div> <!-- End row -->
+		
+		<hr>
 
 		<div class="row">
 			<div class="col-sm-4">

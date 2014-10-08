@@ -42,7 +42,9 @@
 			<div class="col-sm-8 col-sm-offset-2">
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex dolorum consequuntur in eos, corrupti pariatur mollitia dignissimos commodi nostrum dicta accusantium nisi, doloremque ratione. Harum incidunt veniam laborum ipsum facere porro impedit maiores quam ad vero in, obcaecati molestiae vel, eius possimus, nam nisi minus voluptatum. Laborum, ullam doloribus voluptates!
 			</div>
-
+		</div>
+		<div class="buttonBack text-center">
+			<a href="byggerier.php" class="btn btn-default ">Tilbage</a>
 		</div>
 	</div> <!--End container -->
 </section>
